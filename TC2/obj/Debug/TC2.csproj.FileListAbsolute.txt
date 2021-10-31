@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\TC´s\TC2\TC2\obj\Debug\TC2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\TC´s\TC2\TC2\obj\Debug\TC2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\TC´s\TC2\TC2\obj\Debug\TC2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\TC´s\TC2\TC2\bin\Debug\TC2.exe.config
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\TC´s\TC2\TC2\bin\Debug\TC2.exe
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\TC´s\TC2\TC2\bin\Debug\TC2.pdb
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\TC´s\TC2\TC2\obj\Debug\TC2.exe
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\TC´s\TC2\TC2\obj\Debug\TC2.pdb
